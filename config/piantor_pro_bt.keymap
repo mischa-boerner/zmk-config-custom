@@ -49,7 +49,7 @@
                                      &kp LGUI &trans  &kp SPACE &kp LGUI         &mo 3            &kp SPACE
             >;
         };
-0
+
         raise_layer {
             display-name = "SYMBOL";
             // -----------------------------------------------------------------------------------------
